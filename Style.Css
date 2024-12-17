@@ -1,0 +1,13 @@
+body {
+background-color: darkcyan;
+    background-image: url("Bugatti.jpeg");
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+}
+
+
+#Gradient{
+    height: 200px;
+   background: linear-gradient(to left,Blue,Red);
+}
